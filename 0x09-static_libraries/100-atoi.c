@@ -1,6 +1,5 @@
 #include "main.h"
-
-int int_mo(unsigned int n)
+int _atoi(char *s)
 {
 	return (0);
 }
